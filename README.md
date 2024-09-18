@@ -6,7 +6,7 @@ Each project is divided by weeks then days, typically I made around 2-3 small pr
 
 ### Week 1
 **Fundamental Python Programming** :
-Consists of 15 projects all about the absolute fundemental of Python 
+Consists of 15 projects all about the absolute fundamental of Python 
 1. Taking user input & response validation
 2. Conditional statements
 3. Random and Time modules
