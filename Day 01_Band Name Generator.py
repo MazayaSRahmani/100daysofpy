@@ -9,18 +9,3 @@ pet = input("What's the name of your pet? \n")
 print("Your band name could be "+ city + " "+ pet)
 
 
-# Note 1
-# You can swap the contents of a variable by adding a third temporary variable
-# Example:
-glass1 = "Milk"
-glass2 = "Juice"
-
-# Swap the contents
-temp = glass1
-glass1 = glass2
-glass2 = temp
-
-print(glass1)
-print(glass2)
-
-
